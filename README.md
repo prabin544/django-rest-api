@@ -12,4 +12,4 @@
  - Update Dockerfile and docker-compose.yml if needed.
  
  ### Collaborator
- Daniel, Wondwosen, Davee, Michael
+ Daniel, Wondwosen, Davee
